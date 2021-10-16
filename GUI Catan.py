@@ -2309,8 +2309,8 @@ def trade_merchant():
 
 
     # Dictionary to create multiple buttons
-    values_1 = {"2 x Lumber": "2",
-              "2 x Sheep": "3",
+    values_1 = {"2:1 Lumber": "2",
+              "2:1 Sheep": "3",
               "2 x Wheat": "4",
               "2 x Rock": "5"}
 
@@ -2358,7 +2358,7 @@ def trade_merchant():
         Radiobutton.forget()
 
 
-    merchant_any_card_button = Button(merchant_window, text="3 x Any Card", background="lightskyblue", command=any_3_cards).grid(row=1, column=2)
+    merchant_any_card_button = Button(merchant_window, text="3:1 (Any Card)", background="lightskyblue", command=any_3_cards).grid(row=1, column=2, columnspan=2)
 
 
 
