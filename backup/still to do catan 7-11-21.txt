@@ -1,0 +1,47 @@
+update roads_neighbors in class Graph Properties!
+
+
+
+scoreboard (finish after xx points ) 
+
+
+setting up the board for both players at the beginning
+
+
+- turn 3: make sure only the second settlement can build roads for player 1
+
+
+
+
+#maybe:
+
+if 7 rolled robber is activated
+
+
+
+
+on 7: takes cards away even if hand < 7 - fixed?
+
+
+remove dice roll after the end of the turn
+
+
+cities only give you one resource instead of two - fixed
+
+
+hub: wood - merchant: lumber - fixed
+
+
+Player 2: only add 1 point when building city              ???? thats correct
+
+
+player 2: doesnt let me buy dev card with 2 wheat, 1 rock, 1 sheep - fixed
+
+
+player 2: monopoly: says i dont own a card even though i got 1 - fixed
+
+
+pop up message for longest road, largest army - not done!
+
+
+'10' instead '10 points' - dont remember what it was?
