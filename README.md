@@ -2,8 +2,7 @@
 
 A Python implementation of the classic board game Settlers of Catan with a graphical interface built using tkinter. The game features a dynamically generated hexagonal map, game logic based on official rules, and network analysis using networkx.
 
-<img width="600" alt="settlers of catan" src="https://github.com/user-attachments/assets/b2531897-474a-4f57-820f-1a567cff5d0b" />
-
+<img width="600" alt="settlers of catan" src="https://github.com/user-attachments/assets/54c943d1-3638-41b1-9abf-b5bc6d0f5b8f" />
 
 ## Features
 
