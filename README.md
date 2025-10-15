@@ -6,10 +6,8 @@ A Python implementation of the classic board game Settlers of Catan with a graph
 
 - Interactive tkinter-based GUI with visual board representation
 - Hexagonal game board generated and analyzed using networkx
-- Complete game mechanics following official Settlers of Catan rules
-- Player management and resource trading system
-- Development card system
 - Data handling and game state management with pandas
+- Complete game mechanics following official Settlers of Catan rules
 
 ## Requirements
 
@@ -27,7 +25,7 @@ A Python implementation of the classic board game Settlers of Catan with a graph
 
 ```bash
 git clone <repository-url>
-cd settlers-of-catan
+cd <folder-name>
 ```
 
 ### 2. Create a virtual environment
