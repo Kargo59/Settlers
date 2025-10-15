@@ -68,4 +68,4 @@ The game follows standard Settlers of Catan rules. Players build settlements, ci
 
 ## License
 
-This project is provided as-is for educational and portfolio purposes.
+This project is open source and available under the MIT License.
