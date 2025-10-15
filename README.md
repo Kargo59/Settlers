@@ -8,18 +8,7 @@ A Python implementation of the classic board game Settlers of Catan with a graph
 
 - Interactive tkinter-based GUI with visual board representation
 - Hexagonal game board generated and analyzed using networkx
-- Data handling and game state management with pandas
 - Complete game mechanics following official Settlers of Catan rules
-
-## Requirements
-
-- Python 3.9+
-- tkinter
-- networkx
-- pandas
-- matplotlib
-- geopandas
-- Additional dependencies listed in requirements.txt
 
 ## Installation
 
